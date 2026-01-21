@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt
 import os
 
 # ---------------- CONFIG ----------------
-TIMESTAMP = "2026-01-19_03.57.42"
-SESSION = '20'
+TIMESTAMP = "2026-01-20_21.39.42"
+SESSION = '28'
 
 SHIMMER_CSV = rf"C:\Users\beks9\Documents\oVRcome\Breathing\breathing_measure\data\{TIMESTAMP}\DefaultTrial_Session{SESSION}_Shimmer_6815_Calibrated_SD.csv"
 BREATHING_CSV = rf"C:\Users\beks9\Documents\oVRcome\Breathing\breathing_measure\data\{TIMESTAMP}\inhale_{TIMESTAMP}.csv"
